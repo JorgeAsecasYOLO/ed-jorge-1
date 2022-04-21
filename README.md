@@ -1,2 +1,2 @@
-# ed-jorge-1
+# ED Jorge 1
 Mi primer repositorio remoto
